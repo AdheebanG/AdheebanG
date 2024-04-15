@@ -1,9 +1,9 @@
 **Hello I'm Adheeban Gowrishankar**
 
-- 👀 I’m interested in Machine Learning and anhy data related projects
-- 🌱 I’m currently an undergraduate at the Department of Statistics, Faculty of Science, University of Colombo 
+- 👀 I’m interested in Machine Learning and any data related projects
+- 🌱 I’m currently employed as a Machine Learning Engineer
  
-- 📫 How to reach me : adeebann112@gmail.com
+- 📫 How to reach me: adeebann112@gmail.com
 
 <!---
 - 💞️ I’m looking to collaborate on ...
